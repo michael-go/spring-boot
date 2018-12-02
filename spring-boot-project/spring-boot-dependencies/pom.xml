@@ -86,7 +86,7 @@
 		<jdom2.version>2.0.6</jdom2.version>
 		<jedis.version>2.9.0</jedis.version>
 		<jersey.version>2.26</jersey.version>
-		<jest.version>5.3.3</jest.version>
+		<jest.version>6.3.0</jest.version>
 		<jetty.version>9.4.8.v20171121</jetty.version>
 		<jetty-jsp.version>2.2.0.v201112011158</jetty-jsp.version>
 		<jetty-el.version>8.5.24.1</jetty-el.version>
@@ -165,7 +165,7 @@
 		<thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
 		<thymeleaf-extras-java8time.version>3.0.1.RELEASE</thymeleaf-extras-java8time.version>
 		<tomcat.version>8.5.28</tomcat.version>
-		<undertow.version>1.4.22.Final</undertow.version>
+		<undertow.version>2.0.5.Final</undertow.version>
 		<unboundid-ldapsdk.version>4.0.4</unboundid-ldapsdk.version>
 		<webjars-hal-browser.version>3325375</webjars-hal-browser.version>
 		<webjars-locator-core.version>0.35</webjars-locator-core.version>
