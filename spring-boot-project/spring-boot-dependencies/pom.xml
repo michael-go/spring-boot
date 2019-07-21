@@ -124,7 +124,7 @@
 		<netty.version>4.1.21.Final</netty.version>
 		<nio-multipart-parser.version>1.1.0</nio-multipart-parser.version>
 		<postgresql.version>42.2.1</postgresql.version>
-		<quartz.version>2.3.0</quartz.version>
+		<quartz.version>2.3.1</quartz.version>
 		<querydsl.version>4.1.4</querydsl.version>
 		<rabbit-amqp-client.version>5.1.2</rabbit-amqp-client.version>
 		<reactor-bom.version>Bismuth-SR6</reactor-bom.version>
@@ -165,7 +165,7 @@
 		<thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
 		<thymeleaf-extras-java8time.version>3.0.1.RELEASE</thymeleaf-extras-java8time.version>
 		<tomcat.version>8.5.28</tomcat.version>
-		<undertow.version>1.4.22.Final</undertow.version>
+		<undertow.version>2.0.20.Final</undertow.version>
 		<unboundid-ldapsdk.version>4.0.4</unboundid-ldapsdk.version>
 		<webjars-hal-browser.version>3325375</webjars-hal-browser.version>
 		<webjars-locator-core.version>0.35</webjars-locator-core.version>
