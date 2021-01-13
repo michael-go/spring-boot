@@ -146,7 +146,7 @@
 		<spring-batch.version>4.0.0.RELEASE</spring-batch.version>
 		<spring-cloud-connectors.version>2.0.1.RELEASE</spring-cloud-connectors.version>
 		<spring-data-releasetrain.version>Kay-SR4</spring-data-releasetrain.version>
-		<spring-hateoas.version>0.24.0.RELEASE</spring-hateoas.version>
+		<spring-hateoas.version>1.0.0.RELEASE</spring-hateoas.version>
 		<spring-integration.version>5.0.2.BUILD-SNAPSHOT</spring-integration.version>
 		<spring-kafka.version>2.1.2.RELEASE</spring-kafka.version>
 		<spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
@@ -155,7 +155,7 @@
 		<spring-retry.version>1.2.2.RELEASE</spring-retry.version>
 		<spring-security.version>5.0.2.RELEASE</spring-security.version>
 		<spring-session-bom.version>Apple-BUILD-SNAPSHOT</spring-session-bom.version>
-		<spring-ws.version>3.0.0.RELEASE</spring-ws.version>
+		<spring-ws.version>3.0.4.RELEASE</spring-ws.version>
 		<sqlite-jdbc.version>3.21.0.1</sqlite-jdbc.version>
 		<statsd-client.version>3.1.0</statsd-client.version>
 		<sun-mail.version>${javax-mail.version}</sun-mail.version>
