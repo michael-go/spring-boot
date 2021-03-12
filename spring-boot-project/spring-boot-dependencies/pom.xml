@@ -50,7 +50,7 @@
 		<ehcache3.version>3.4.0</ehcache3.version>
 		<embedded-mongo.version>2.0.3</embedded-mongo.version>
 		<flyway.version>5.0.7</flyway.version>
-		<freemarker.version>2.3.27-incubating</freemarker.version>
+		<freemarker.version>2.3.30</freemarker.version>
 		<elasticsearch.version>5.6.7</elasticsearch.version>
 		<glassfish-el.version>3.0.0</glassfish-el.version>
 		<groovy.version>2.4.13</groovy.version>
@@ -164,8 +164,8 @@
 		<thymeleaf-layout-dialect.version>2.3.0</thymeleaf-layout-dialect.version>
 		<thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
 		<thymeleaf-extras-java8time.version>3.0.1.RELEASE</thymeleaf-extras-java8time.version>
-		<tomcat.version>8.5.28</tomcat.version>
-		<undertow.version>1.4.22.Final</undertow.version>
+		<tomcat.version>8.5.63</tomcat.version>
+		<undertow.version>2.0.34.Final</undertow.version>
 		<unboundid-ldapsdk.version>4.0.4</unboundid-ldapsdk.version>
 		<webjars-hal-browser.version>3325375</webjars-hal-browser.version>
 		<webjars-locator-core.version>0.35</webjars-locator-core.version>
