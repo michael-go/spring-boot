@@ -148,7 +148,7 @@
 		<spring-data-releasetrain.version>Kay-SR4</spring-data-releasetrain.version>
 		<spring-hateoas.version>0.24.0.RELEASE</spring-hateoas.version>
 		<spring-integration.version>5.0.2.BUILD-SNAPSHOT</spring-integration.version>
-		<spring-kafka.version>2.1.2.RELEASE</spring-kafka.version>
+		<spring-kafka.version>2.7.0</spring-kafka.version>
 		<spring-ldap.version>2.3.2.RELEASE</spring-ldap.version>
 		<spring-plugin.version>1.2.0.RELEASE</spring-plugin.version>
 		<spring-restdocs.version>2.0.0.RELEASE</spring-restdocs.version>
@@ -161,7 +161,7 @@
 		<sun-mail.version>${javax-mail.version}</sun-mail.version>
 		<thymeleaf.version>3.0.9.RELEASE</thymeleaf.version>
 		<thymeleaf-extras-springsecurity4.version>3.0.2.RELEASE</thymeleaf-extras-springsecurity4.version>
-		<thymeleaf-layout-dialect.version>2.3.0</thymeleaf-layout-dialect.version>
+		<thymeleaf-layout-dialect.version>2.5.3</thymeleaf-layout-dialect.version>
 		<thymeleaf-extras-data-attribute.version>2.0.1</thymeleaf-extras-data-attribute.version>
 		<thymeleaf-extras-java8time.version>3.0.1.RELEASE</thymeleaf-extras-java8time.version>
 		<tomcat.version>8.5.28</tomcat.version>
